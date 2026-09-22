@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="DejaVu Sans, sans-serif" font-weight="bold">
+<!-- NGEK meme editable layout: layers = background / mascot / caption -->
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0a0a22"/><stop offset="1" stop-color="#141438"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="20"/>
+  </filter>
+</defs>
+<g id="background">
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g stroke="#00f0ff" stroke-width="4" opacity="0.7" fill="none">
+    <path d="M28 118 V28 H118"/><path d="M1052 118 V28 H962"/>
+    <path d="M28 1232 V1322 H118"/><path d="M1052 1232 V1322 H962"/>
+  </g>
+  <g id="clock" stroke="#00f0ff" stroke-width="5" fill="none">
+    <circle cx="940" cy="140" r="64"/>
+    <path d="M940 140 V96" stroke-width="6"/><path d="M940 140 H976" stroke-width="6"/>
+  </g>
+</g>
+<g id="mascot">
+  <g filter="url(#glow)" opacity="0.9"><polyline points="594,830 585,856 568,878 545,895 518,906 489,910 461,908 436,899 417,886 403,870 396,852 395,834 401,818 411,804 425,794 441,789 458,787 473,789 486,794 496,801 501,810 503,819 502,827 498,833 492,837 485,839 479,839 474,837" fill="none" stroke="#7CFC00" stroke-width="34" stroke-linecap="round"/>
+  <ellipse id="body" cx="540" cy="634" rx="127" ry="172" fill="#7CFC00" stroke="#4AA800" stroke-width="6"/>
+  <ellipse id="head" cx="540" cy="414" rx="113" ry="103" fill="#7CFC00" stroke="#4AA800" stroke-width="6"/>
+  <line x1="432" y1="536" x2="310" y2="423" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="287" cy="370" r="15"/><circle cx="266" cy="389" r="15"/><circle cx="259" cy="415" r="15"/><circle cx="266" cy="442" r="15"/><circle cx="287" cy="461" r="15"/></g>
+  <line x1="648" y1="536" x2="770" y2="423" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="793" cy="370" r="15"/><circle cx="814" cy="389" r="15"/><circle cx="821" cy="415" r="15"/><circle cx="814" cy="442" r="15"/><circle cx="793" cy="461" r="15"/></g>
+  <line x1="432" y1="732" x2="310" y2="845" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="287" cy="807" r="15"/><circle cx="266" cy="826" r="15"/><circle cx="259" cy="853" r="15"/><circle cx="266" cy="879" r="15"/><circle cx="287" cy="898" r="15"/></g>
+  <line x1="648" y1="732" x2="770" y2="845" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="793" cy="807" r="15"/><circle cx="814" cy="826" r="15"/><circle cx="821" cy="853" r="15"/><circle cx="814" cy="879" r="15"/><circle cx="793" cy="898" r="15"/></g>
+  <polygon points="516,323 564,323 540,273" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,556 564,556 540,519" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,624 564,624 540,574" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,693 564,693 540,656" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,761 564,761 540,711" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <g id="eye-l">
+  <ellipse cx="469" cy="389" rx="43" ry="49" fill="#FFD24A" stroke="#000" stroke-width="4"/>
+  <ellipse cx="469" cy="389" rx="13" ry="21" fill="#0a0a0a"/>
+  <ellipse cx="477" cy="369" rx="9" ry="8" fill="#fff"/>
+</g>
+  <g id="eye-r">
+  <ellipse cx="611" cy="389" rx="43" ry="49" fill="#FFD24A" stroke="#000" stroke-width="4"/>
+  <ellipse cx="611" cy="389" rx="13" ry="21" fill="#0a0a0a"/>
+  <ellipse cx="618" cy="369" rx="9" ry="8" fill="#fff"/>
+</g>
+  <path d="M501 474 Q 540 519 579 474" fill="none" stroke="#143C14" stroke-width="8" stroke-linecap="round"/></g>
+  <polyline points="594,830 585,856 568,878 545,895 518,906 489,910 461,908 436,899 417,886 403,870 396,852 395,834 401,818 411,804 425,794 441,789 458,787 473,789 486,794 496,801 501,810 503,819 502,827 498,833 492,837 485,839 479,839 474,837" fill="none" stroke="#7CFC00" stroke-width="34" stroke-linecap="round"/>
+  <ellipse id="body" cx="540" cy="634" rx="127" ry="172" fill="#7CFC00" stroke="#4AA800" stroke-width="6"/>
+  <ellipse id="head" cx="540" cy="414" rx="113" ry="103" fill="#7CFC00" stroke="#4AA800" stroke-width="6"/>
+  <line x1="432" y1="536" x2="310" y2="423" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="287" cy="370" r="15"/><circle cx="266" cy="389" r="15"/><circle cx="259" cy="415" r="15"/><circle cx="266" cy="442" r="15"/><circle cx="287" cy="461" r="15"/></g>
+  <line x1="648" y1="536" x2="770" y2="423" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="793" cy="370" r="15"/><circle cx="814" cy="389" r="15"/><circle cx="821" cy="415" r="15"/><circle cx="814" cy="442" r="15"/><circle cx="793" cy="461" r="15"/></g>
+  <line x1="432" y1="732" x2="310" y2="845" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="287" cy="807" r="15"/><circle cx="266" cy="826" r="15"/><circle cx="259" cy="853" r="15"/><circle cx="266" cy="879" r="15"/><circle cx="287" cy="898" r="15"/></g>
+  <line x1="648" y1="732" x2="770" y2="845" stroke="#7CFC00" stroke-width="39"/>
+  <g fill="#7CFC00"><circle cx="793" cy="807" r="15"/><circle cx="814" cy="826" r="15"/><circle cx="821" cy="853" r="15"/><circle cx="814" cy="879" r="15"/><circle cx="793" cy="898" r="15"/></g>
+  <polygon points="516,323 564,323 540,273" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,556 564,556 540,519" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,624 564,624 540,574" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,693 564,693 540,656" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <polygon points="516,761 564,761 540,711" fill="#A04DF0" stroke="#6E28BE" stroke-width="2"/>
+  <g id="eye-l">
+  <ellipse cx="469" cy="389" rx="43" ry="49" fill="#FFD24A" stroke="#000" stroke-width="4"/>
+  <ellipse cx="469" cy="389" rx="13" ry="21" fill="#0a0a0a"/>
+  <ellipse cx="477" cy="369" rx="9" ry="8" fill="#fff"/>
+</g>
+  <g id="eye-r">
+  <ellipse cx="611" cy="389" rx="43" ry="49" fill="#FFD24A" stroke="#000" stroke-width="4"/>
+  <ellipse cx="611" cy="389" rx="13" ry="21" fill="#0a0a0a"/>
+  <ellipse cx="618" cy="369" rx="9" ry="8" fill="#fff"/>
+</g>
+  <path d="M501 474 Q 540 519 579 474" fill="none" stroke="#143C14" stroke-width="8" stroke-linecap="round"/>
+</g>
+<g id="caption" fill="#ffffff" stroke="#000000" stroke-width="6" paint-order="stroke" text-anchor="middle">
+  <text x="66" y="58" font-size="52" text-anchor="start" dominant-baseline="central">NOBODY:</text>
+  <text x="540" y="1246" font-size="76" dominant-baseline="central">THE NEON GECKO AT 3AM:</text>
+  <text x="66" y="1302" font-size="58" text-anchor="start" dominant-baseline="central" fill="#7CFC00" stroke="#002800">$NGEK</text>
+</g>
+</svg>
